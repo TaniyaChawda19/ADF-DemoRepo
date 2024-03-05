@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataFactory-Trial3479857",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f51e7480-34d2-4284-8ce6-d129eefaa206",
+		"tenantId": "dcd474e8-134d-4706-b81f-2ea6a215e28d"
+	}
+}
